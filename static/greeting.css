@@ -1,0 +1,17 @@
+h1 {
+  color: black;
+  font-weight:bold;
+  background-color: gray;
+}
+h2 {
+color: darkblue;
+ padding:10px
+}
+
+.image-file {
+    height: 320px;
+    width: 200px;
+}
+.div-section {
+    width: 300px;	
+}
